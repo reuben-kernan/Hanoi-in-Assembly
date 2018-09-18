@@ -209,6 +209,7 @@ to the thirties for further trials. Thirty disks takes about thirteen
 seconds to complete, with thirty-five taking nearly seven minutes to
 solve.
 
+|       |                              |
 | :---: | :--------------------------: |
 | Disks |             Time             |
 |  20   |             32ms             |
